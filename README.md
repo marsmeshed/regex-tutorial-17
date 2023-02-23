@@ -1,6 +1,4 @@
-# Regex Tutorial Starter Code
-
-# Matching an email using regex
+# Regex Tutorial, email 
 
 Today, you'll have the opportuniy to better understand regex, regular expressions. Throughout this passage, you'll have regex simplified and explained in a manner most can understand.
 ## Summary
